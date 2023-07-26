@@ -3,6 +3,7 @@
 Simple Java desktop application managing users music data. 
 
 Application consist of two types of user:
+
 - Admin user
   Admins can add/remove songs/albums to existing database.
 - Regular user
@@ -12,9 +13,4 @@ Application consist of two types of user:
 
 Project completed as part of University course.
 
-# Start
 
-
-Admin Login: 
-email:admin
-password:admin12

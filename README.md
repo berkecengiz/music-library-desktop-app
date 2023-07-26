@@ -11,6 +11,6 @@ Application consist of two types of user:
   Users can also add existing tracks to playlist and rate them.
 
 
-Project completed as part of University course.
+Project completed as part of university course.
 
 
